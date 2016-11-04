@@ -9,6 +9,9 @@ The library is published in the jCenter repository. So you just add this in your
 compile 'io.github.karuppiah7890:fileshare:0.1.0'
 ```
 
+## API Usage
+See the [API Usage](https://github.com/Android-File-Share/FileShare/wiki/API-Usage) Wiki page
+
 ## Demo App
 
 FileSharer is a Demo App that is built using FileShare library. You can see the source code in the [FileSharerDemoApp](https://github.com/Android-File-Share/FileShare/tree/master/FileSharerDemoApp) folder. The APK for the Demo App is available in the releases.
