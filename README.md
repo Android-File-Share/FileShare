@@ -41,3 +41,7 @@ The file should get sent and you will see Toast messages accordingly in between 
 
 ## License
 The library is available under [MIT License](https://github.com/Android-File-Share/FileShare/blob/master/LICENSE.md)
+
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/As7RZLNBAMSNCAFdWx5r75nM/Android-File-Share/FileShare'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/As7RZLNBAMSNCAFdWx5r75nM/Android-File-Share/FileShare.svg' />
+</a>
